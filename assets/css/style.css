@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   text-align: center;
   color: #000f08;
@@ -82,3 +83,89 @@ padding-bottom: 10px;
 .final {
 width: 3.32px; height: 50.45px;
 }
+=======
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #249ca9;
+}
+
+
+.card-body {
+  background-color: #249ca9;
+}
+
+.card-title {
+  color: #FBFBFB;
+}
+
+.card-text1 {
+  color: #FBFBFB;
+}
+
+.card-viajes {
+  background-color: black;
+}
+
+.card-viajes img {
+  max-height: 150px;
+}
+
+.max_vh {
+  background-color: black;
+  max-height: 100vh;
+}
+
+.destacados-titulo {
+  text-align: center;
+  color: white;
+}
+
+#quienes {
+  background-color: black;
+  color: white;
+}
+
+.iconos{
+  background-color: #249ca9;
+}
+
+.texto-iconos {
+  text-align: justify;
+}
+
+#contacto {
+  background-color: black;
+  color: white;
+}
+
+footer {
+margin: 0;
+border: 0;
+padding-top: 0;
+}
+
+#viajes {
+background-color: #249ca9;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+
+.final {
+width: 3.32px; height: 50.45px;
+}
+>>>>>>> 18e3cbe91407724b7b58f2f593c3477f306fe275
